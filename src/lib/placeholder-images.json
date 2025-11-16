@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "speaker-1",
+      "description": "Photo of Dr. Abhinav Kumar",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/Dr.%20Abhinav%20Kumar.jpeg?alt=media&token=7b2bfbe7-b827-49f8-a049-f7d164effbd9",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "speaker-2",
+      "description": "Photo of Muthukumar T",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/Muthukumar%20T.jpeg?alt=media&token=e31b17b4-6e47-4eab-9512-9a572af762a5",
+      "imageHint": "man professional"
+    },
+    {
+      "id": "speaker-3",
+      "description": "Photo of K.V. Praveen Kumar",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/K%20v%20Praveen%20Kumar.jpeg?alt=media&token=91193641-5f27-41ea-b9e9-94da924dd666",
+      "imageHint": "man academic"
+    },
+    {
+      "id": "speaker-4",
+      "description": "Photo of Hari Krishna Palusam",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/Harikrishna.jpeg?alt=media&token=e805fa0e-8aaa-430a-9899-fe6ba8e6462a",
+      "imageHint": "man founder"
+    },
+    {
+      "id": "speaker-5",
+      "description": "Photo of Dr. Tejavathu Ramesh",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/Dr%20Tejavathu%20Ramesh.jpeg?alt=media&token=271537ff-52e9-42dd-b39a-eefa81892451",
+      "imageHint": "man professor"
+    },
+    {
+      "id": "speaker-6",
+      "description": "Photo of Prof. K. Anil Naik",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/Prof.%20K%20Anil%20Nayak.jpeg?alt=media&token=aef0324e-7c8f-4d5e-9662-77763a4bf8a2",
+      "imageHint": "man academic"
+    }
+  ]
+}
