@@ -46,7 +46,7 @@ export default function Home() {
         <div className="container px-4 md:px-6">
           <div className="mx-auto max-w-4xl space-y-6">
             <div className="inline-block rounded-lg bg-muted px-3 py-1 text-sm font-medium">
-              January 6-8, 2025 | Vardhaman College of Engineering
+              January 6-8, 2026 | Vardhaman College of Engineering
             </div>
             <div className="flex justify-center items-center gap-4">
               <h1 className="font-headline text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl leading-tight">
