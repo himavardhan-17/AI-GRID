@@ -34,7 +34,7 @@ const highlights = [
 ];
 
 const logos = [
-    { src: "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/channels4_profile__1___2_-removebg-preview.png?alt=media&token=959d85e2-9d67-484b-ab6d-86d815305a4e", alt: "Vardhaman College Logo", width: 100, height: 100 },
+    { src: "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/channels4_profile__1___2_-removebg-preview.png?alt=media&token=f90e0552-cfd6-4be0-817c-ed49793f402b", alt: "Vardhaman College Logo", width: 100, height: 100 },
     { src: "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/KLH_Logo.png?alt=media&token=5296f729-efdf-491f-9179-5ed4c2132d0e", alt: "KLU HYD Logo", width: 120, height: 60 },
     { src: "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/govt.png?alt=media&token=1da33bb8-c069-476b-b07d-ccf0f5235d74", alt: "MeitY Logo", width: 120, height: 60 },
 ];
