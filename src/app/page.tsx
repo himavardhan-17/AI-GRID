@@ -34,12 +34,13 @@ const highlights = [
 ];
 
 const logos = [
-    { src: "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/channels4_profile__1___2_-removebg-preview.png?alt=media&token=f90e0552-cfd6-4be0-817c-ed49793f402b", alt: "Vardhaman College Logo", width: 100, height: 100 },
-    { src: "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/govt.png?alt=media&token=1da33bb8-c069-476b-b07d-ccf0f5235d74", alt: "MeitY Logo", width: 120, height: 60 },
-    { src: "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/KLH_Logo.png?alt=media&token=5296f729-efdf-491f-9179-5ed4c2132d0e", alt: "KLU HYD Logo", width: 120, height: 60 },
-    { src: "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/Ai%20logo.jpeg?alt=media&token=8d59fb2c-3812-4acf-a7ca-8f472a6aaaee", alt: "Ai Logo", width: 120, height: 60 },
-    { src: "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/vec.jpeg?alt=media&token=41e0a80c-09fd-4554-82a8-bd17ead91b02", alt: "VEC Logo", width: 120, height: 60 },
+  { src: "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/channels4_profile__1___2_-removebg-preview.png?alt=media&token=f90e0552-cfd6-4be0-817c-ed49793f402b", alt: "Vardhaman College Logo", width: 100, height: 100 },
+  { src: "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/govt.png?alt=media&token=1da33bb8-c069-476b-b07d-ccf0f5235d74", alt: "MeitY Logo", width: 120, height: 60 },
+  { src: "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/Ai%20logo.jpeg?alt=media&token=8d59fb2c-3812-4acf-a7ca-8f472a6aaaee", alt: "Ai Logo", width: 120, height: 60 },
+  { src: "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/KLH_Logo.png?alt=media&token=5296f729-efdf-491f-9179-5ed4c2132d0e", alt: "KLU HYD Logo", width: 120, height: 60 },
+  { src: "https://firebasestorage.googleapis.com/v0/b/inspire-x-1c8c6.firebasestorage.app/o/vec.jpeg?alt=media&token=41e0a80c-09fd-4554-82a8-bd17ead91b02", alt: "VEC Logo", width: 120, height: 60 },
 ];
+
 
 export default function Home() {
   return (
